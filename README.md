@@ -1,2 +1,2 @@
-# MonsterHunterRiseModding
-Work in progress Wiki for modding Monster Hunter Rise.
+* [Monster Hunter Rise Modding Wiki](https://github.com/mhvuze/MonsterHunterRiseModding/wiki)
+* [Modding Discord](https://discord.gg/gJwMdhK)
