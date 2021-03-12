@@ -6,3 +6,4 @@
 ### File credits
 * `mhrise.list`: Silvris, Ando, Asterisk, MHVuze
 * `RisePakPatch.zip`: Michalss & Kramla, Ekey, MHVuze
+* `GetTitlekey.exe`: MHVuze
