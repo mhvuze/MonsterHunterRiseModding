@@ -29976,3 +29976,8 @@ natives\NSW\Sound\Asset\Pl\Pl_Eq\Parts\Leg\Container\pl_eq_f_leg001.wcc.2
 natives\NSW\player\mod\f\pl001\f_leg001_ALBD.tex.28
 natives\NSW\player\mod\f\pl001\f_leg001_NRMR.tex.28
 natives\NSW\player\mod\f\pl001\f_leg001_CMM.tex.28
+natives\NSW\Sound\Wwise\pl_wp_g_swd_com.bnk.2.NSW.En
+natives\NSW\Sound\Wwise\pl_wp_g_swd_epv_madia.bnk.2.NSW.En
+natives\NSW\Sound\Wwise\pl_wp_g_swd_com_media.bnk.2.NSW.En
+natives\NSW\Sound\Wwise\pl_wp_g_swd_oneoff_101_media.bnk.2.NSW.En
+natives\NSW\vfx\effect_shader\Billboard3DTexFilterColorGradingProceduralDistortion.vsdf.2011060895
