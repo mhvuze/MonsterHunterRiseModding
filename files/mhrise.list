@@ -38061,3 +38061,7 @@ natives\NSW\Sound\Wwise\pl_voice_f_17_event_media.bnk.2.NSW.En
 natives\NSW\Sound\Wwise\pl_voice_f_17_event_media.pck.3.NSW.En
 natives\NSW\streaming\Sound\Wwise\pl_voice_f_17_event_media.pck.3.NSW.En
 natives\NSW\gui\80_Texture\tutorial\tutorial_0154_IAM.tex.28.NSW.Es
+natives\NSW\enemy\em061\00\shell\EmShell008\user_data\jumpingpresssnowterrain.user.2
+natives\NSW\enemy\ems014\00\mod\ems014_00.chain.35
+natives\NSW\enemy\em054\common\act_tbl_user_data\damage\em054_damage_305.user.2
+natives\NSW\systems\effect\Vfx_default_uvs.uvs.7
