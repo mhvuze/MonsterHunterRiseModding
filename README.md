@@ -4,6 +4,6 @@
 * [Modding Discord](https://discord.gg/gJwMdhK)
 
 ### File credits
-* `mhrise.list`: Silvris, Ando, Asterisk, MHVuze
+* `mhrise.list`: 本本子, Silvris, Ando, Asterisk, MHVuze
 * `RisePakPatch.zip`: Michalss & Kramla, Ekey, MHVuze
 * `GetTitlekey.exe`: MHVuze
